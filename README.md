@@ -9,7 +9,5 @@ This project is a compiled copy of [reflare](https://github.com/xiaoyang-sde/ref
 2. Enjoy!
 
 ## Acknowledgement
-
 @[xiaoyang-sde](https://github.com/xiaoyang-sde)‘s  [reflare](https://github.com/xiaoyang-sde/reflare)
-@[SynoCommunity](https://github.com/SynoCommunity)'s [spkrepo](https://github.com/SynoCommunity/spkrepo)
 
